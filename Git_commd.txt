@@ -1,0 +1,8 @@
+# we are going to learn git commds 
+1. git init
+2. git add
+3. git commit -m "message"
+4. git log
+5. git branch <new name >
+6. git checkout
+7. git merge 
