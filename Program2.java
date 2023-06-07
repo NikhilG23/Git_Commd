@@ -5,7 +5,7 @@ public class Program2 {
         Random rand= new Random(System.currentTimeMillis());
         for (int i = 0; i < 3; i++) 
         {
-                System.out.print(rand.nextInt(5));
+                System.out.print(rand.nextInt(11));
         }
     }
 }
